@@ -1,1 +1,1 @@
-# Serverless-Image-Processing-Pipeline-
+# Serverless-Image-Processing-Pipeline
